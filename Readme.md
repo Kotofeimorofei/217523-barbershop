@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Мартынов Иван](https://up.htmlacademy.ru/htmlcss/14/user/217523).
+* Наставник: [Шамиль Алисултанов](https://htmlacademy.ru/profile/id13948)
 
 ---
 
